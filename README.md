@@ -1,1 +1,1 @@
-# Rookie test by abdul
+# Rookie
